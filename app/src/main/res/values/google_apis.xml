@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_api_key" translatable="false">AIzaSyB3l-9aYPiyEIHzHHY4c7EoIfGj06GPreI</string>
+    <string name="places_api_key" translatable="false">AIzaSyDIf7VGf8dBbfrXmuUFkpOrPQIZEZwFYrU</string>
+    <string name="directions_api_key" translatable="false">AIzaSyAc2Qxj6NtVSxyZC-krE6yrTHRy9FGz87A</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Crosstown</string>
+    <string name="signupSwitchText">אין לך חשבון? הרשמה</string>
+    <string name="loginSwitchText">יש לך חשבון? כניסה</string>
+    <string name="terms">בעצם הרשמתך, אתה מסכים לתנאי השימוש ולמדיניות הפרטיות של Crosstown.</string>
+    <string name="where_qestion">לאן תרצה להגיע?</string>
+    <string name="select_destination">בחר יעד</string>
+    <string name="select_source">בחר מוצא</string>
+    <string name="select_route">בחר מסלול</string>
+    <string name="select_location">בחר מיקום</string>
+    <string name="current_location">מיקומך הנוכחי</string>
+    <string name="no_results">לא נמצאו תוצאות</string>
+    <string name="login">התחברות</string>
+    <string name="signup">הרשמה</string>
+    <string name="email">אימייל:</string>
+    <string name="password">סיסמא:</string>
+    <string name="yourAccounts">Your accounts</string>
+    <string name="following">Following</string>
+    <string name="stories">Stories</string>
+    <string name="live">Live</string>
+    <string name="popular">Popular</string>
+    <string name="commentHint">Comment here</string>
+    <string name="loginTitle">כניסה ל Crosstown</string>
+    <string name="signupTitle">הרשמה ל Crosstown</string>
+    <string name="useRecentAccounts">חשבונות שהשתמשת בהם לאחרונה</string>
+    <string name="poorInternetConnection">חיבור אינטרנט לא יציב</string>
+    <string name="km">ק\"מ</string>
+    <string name="miles">מייל</string>
+    <string name="meters">מ\'</string>
+    <string name="hours">שעות</string>
+    <string name="hour">שעה</string>
+    <string name="minutes">דקות</string>
+    <string name="minute">דקה</string>
+    <string name="seconds">שניות</string>
+    <string name="second">שניה</string>
+    <string name="search_route">חפש מסלול</string>
+</resources>
